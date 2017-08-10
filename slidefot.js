@@ -6,7 +6,7 @@ $(document).ready(function() {
 	$(".deskripsi").html(deskripsi);
 	var harga = $(".harga").html();
 	$(".price").html(harga);
-	$(".hGfzU").html("Support By : <a href='http://www.asckey.com'>asckey</a>");
+	$(".hGfzU").html("Support By : <a href='http://www.asckey.xyz'>asckey</a>");
 	$('a[href=#top]').click(function(){
         $('html, body').animate({scrollTop:0}, 'slow');
         return false;
