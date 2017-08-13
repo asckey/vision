@@ -33,7 +33,7 @@ var appsgeyserRedirect = {
         return false;
     },
     promtRedirectBox: function(){
-        if (confirm("Kami memiliki Aplikasi Android! Instal Aplikasi untuk pengalaman belanja yang menyenangkan.")){
+        if (confirm("Kami memiliki Aplikasi Android, Instal Aplikasi untuk pengalaman belanja yang lebih mudah.")){
             window.location.href = this.url;
         }  
     },
